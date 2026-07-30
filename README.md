@@ -121,7 +121,7 @@ Open the interactive dashboard here:https://esairajesh2-droid.github.io/Sales_An
 
 **docs/index.html**
 
-If GitHub Pages is enabled, the dashboard can also be viewed directly from the deployed website.
+Report of the data using ydata_profiling.
 https://esairajesh2-droid.github.io/Sales_Analysis/Sales_Report.html
 
 ---
